@@ -1,0 +1,23 @@
+div {
+    height: 40px;
+    background-color: aquamarine;
+    width: 40%;
+    border: 1px solid black;
+}
+#doboz1 {
+    background-color: rgb(200, 0, 0);
+}
+#doboz2 {
+    background-color: #16f416;
+}
+#doboz3 {
+    background-color: rgba(4, 30, 200, 60%);
+}
+#doboz4 {
+    background-color: hsl(200, 80%, 60%);
+}
+#doboz5 {
+    background-color: red;
+    opacity: 70%;
+    color: blue;
+}
